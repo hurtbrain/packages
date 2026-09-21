@@ -1,0 +1,7 @@
+{
+    "packages": {
+        "math": "./mathamatics.py",
+        "termoutput": "./termouput.py",
+        "varia": "./varia.py"
+    }
+}
