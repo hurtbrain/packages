@@ -1,7 +1,7 @@
 {
     "packages": {
-        "math": "./mathamatics.py",
-        "termoutput": "./termouput.py",
-        "varia": "./varia.py"
+        "math": "https://raw.githubusercontent.com/hurtbrain/packages/main/mathamatics.py",
+        "termoutput": "https://raw.githubusercontent.com/hurtbrain/packages/main/termouput.py",
+        "varia": "https://raw.githubusercontent.com/hurtbrain/packages/main/varia.py"
     }
 }
